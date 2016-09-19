@@ -1,2 +1,5 @@
 # hello-world
-First Class
+
+Hi, First Class
+
+It is a training file.
